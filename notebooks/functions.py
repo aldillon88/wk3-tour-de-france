@@ -49,3 +49,20 @@ def drop_non_numbers(string):
     return number
 
 
+def time_parts(time):
+    try:
+        char_to_drop = ["h", "'", '"', "+"]
+        for char in char_to_drop:
+            time = time.replace(char, "")    
+        parts = time.split()
+        parts = [int(p) for p in parts]
+        if len(parts) == 2:
+            parts.insert(0, 0)
+        elif len(parts) == 1:
+            parts.insert(0, 0)
+            parts.insert(1, 0)
+        return parts
+    except:
+        parts = [0, 0, 0]
+        #return ["none"] # FIX THIS SO IT RETURNS THE CORRECT VALUE
+        return parts
