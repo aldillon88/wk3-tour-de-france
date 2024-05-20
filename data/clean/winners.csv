@@ -1,0 +1,103 @@
+year,country,rider,team,stages_won,stages_led,height,weight,born,age
+1903,france,maurice garin,la française,3,6,1.62,60.0,1871,32
+1904,france,henri cornet,conte,1,3,1.86,62.0,1884,20
+1905,france,louis trousselier,peugeot–wolber,5,10,1.86,62.0,1881,24
+1906,france,rené pottier,peugeot–wolber,5,12,1.86,62.0,1879,27
+1907,france,lucien petit-breton,peugeot–wolber,2,5,1.86,62.0,1882,25
+1908,france,lucien petit-breton,peugeot–wolber,5,13,1.86,62.0,1882,26
+1909,luxembourg,françois faber,alcyon–dunlop,6,13,1.78,88.0,1887,22
+1910,france,octave lapize,alcyon–dunlop,4,3,1.86,62.0,1887,23
+1911,france,gustave garrigou,alcyon–dunlop,2,13,1.86,62.0,1884,27
+1912,belgium,odile defraye,alcyon–dunlop,3,13,1.86,62.0,1888,24
+1913,belgium,philippe thys,peugeot–wolber,1,8,1.86,62.0,1889,24
+1914,belgium,philippe thys,peugeot–wolber,1,15,1.86,62.0,1889,25
+1919,belgium,firmin lambot,la sportive,1,2,1.86,62.0,1886,33
+1920,belgium,philippe thys,la sportive,4,14,1.86,62.0,1889,31
+1921,belgium,léon scieur,la sportive,2,14,1.86,62.0,1888,33
+1922,belgium,firmin lambot,peugeot–wolber,0,3,1.86,62.0,1886,36
+1923,france,henri pélissier,automoto–hutchinson,3,6,1.86,62.0,1889,34
+1924,italy,ottavio bottecchia,automoto,4,15,1.86,62.0,1894,30
+1925,italy,ottavio bottecchia,automoto–hutchinson,4,13,1.86,62.0,1894,31
+1926,belgium,lucien buysse,automoto–hutchinson,2,8,1.86,62.0,1892,34
+1927,luxembourg,nicolas frantz,alcyon–dunlop,3,14,1.86,62.0,1899,28
+1928,luxembourg,nicolas frantz,alcyon–dunlop,5,22,1.86,62.0,1899,29
+1929,belgium,maurice de waele,alcyon–dunlop,1,16,1.86,62.0,1896,33
+1930,france,andré leducq,alcyon–dunlop,2,13,1.86,62.0,1904,26
+1931,france,antonin magne,france,1,16,1.86,62.0,1904,27
+1932,france,andré leducq,france,6,19,1.86,62.0,1904,28
+1933,france,georges speicher,france,3,12,1.86,62.0,1907,26
+1934,france,antonin magne,france,3,22,1.86,62.0,1904,30
+1935,belgium,romain maes,belgium,3,21,1.86,62.0,1912,23
+1936,belgium,sylvère maes,belgium,4,14,1.86,62.0,1909,27
+1937,france,roger lapébie,france,3,4,1.86,62.0,1911,26
+1938,italy,gino bartali,italy,2,8,1.72,66.0,1914,24
+1939,belgium,sylvère maes,belgium,2,8,1.86,62.0,1909,30
+1947,france,jean robic,france,3,1,1.61,60.0,1921,26
+1948,italy,gino bartali,italy,7,9,1.72,66.0,1914,34
+1949,italy,fausto coppi,italy,3,5,1.77,68.0,1919,30
+1950,switzerland,ferdinand kübler,switzerland,3,11,1.86,62.0,1919,31
+1951,switzerland,hugo koblet,switzerland,5,11,1.86,62.0,1925,26
+1952,italy,fausto coppi,italy,5,14,1.77,68.0,1919,33
+1953,france,louison bobet,france,2,5,1.79,75.0,1925,28
+1954,france,louison bobet,france,3,14,1.79,75.0,1925,29
+1955,france,louison bobet,france,2,6,1.79,75.0,1925,30
+1956,france,roger walkowiak,france,0,8,1.86,62.0,1927,29
+1957,france,jacques anquetil,france,4,15,1.76,70.0,1934,23
+1958,luxembourg,charly gaul,luxembourg,4,2,1.73,64.0,1932,26
+1959,spain,federico bahamontes,spain,1,6,1.86,62.0,1928,31
+1960,italy,gastone nencini,italy,0,14,1.86,62.0,1930,30
+1961,france,jacques anquetil,france,2,21,1.76,70.0,1934,27
+1962,france,jacques anquetil,saint-raphaël–helyett–hutchinson,2,3,1.76,70.0,1934,28
+1963,france,jacques anquetil,saint-raphaël–gitane–r. geminiani,4,5,1.76,70.0,1934,29
+1964,france,jacques anquetil,saint-raphaël–gitane–dunlop,4,6,1.76,70.0,1934,30
+1965,italy,felice gimondi,salvarani,3,18,1.81,71.0,1942,23
+1966,france,lucien aimar,ford france–hutchinson,0,6,1.86,62.0,1941,25
+1967,france,roger pingeon,peugeot–bp–michelin,1,17,1.82,72.0,1940,27
+1968,netherlands,jan janssen,pelforth–sauvage–lejeune,2,1,1.86,62.0,1940,28
+1969,belgium,eddy merckx,faema,6,18,1.82,74.0,1945,24
+1970,belgium,eddy merckx,faemino–faema,8,20,1.82,74.0,1945,25
+1971,belgium,eddy merckx,molteni,4,17,1.82,74.0,1945,26
+1972,belgium,eddy merckx,molteni,6,15,1.82,74.0,1945,27
+1973,spain,luis ocaña,bic,6,14,1.65,52.0,1945,28
+1974,belgium,eddy merckx,molteni,8,18,1.82,74.0,1945,29
+1975,france,bernard thévenet,peugeot–bp–michelin,2,8,1.86,62.0,1948,27
+1976,belgium,lucien van impe,gitane–campagnolo,1,12,1.86,58.0,1946,30
+1977,france,bernard thévenet,peugeot–esso–michelin,1,8,1.86,62.0,1948,29
+1978,france,bernard hinault,renault–gitane–campagnolo,3,3,1.74,62.0,1954,24
+1979,france,bernard hinault,renault–gitane,7,17,1.74,62.0,1954,25
+1980,netherlands,joop zoetemelk,ti–raleigh–creda,2,10,1.73,68.0,1946,34
+1981,france,bernard hinault,renault–elf–gitane,5,18,1.74,62.0,1954,27
+1982,france,bernard hinault,renault–elf–gitane,4,12,1.74,62.0,1954,28
+1983,france,laurent fignon,renault–elf,1,6,1.74,67.0,1960,23
+1984,france,laurent fignon,renault–elf,5,7,1.74,67.0,1960,24
+1985,france,bernard hinault,la vie claire,2,16,1.74,62.0,1954,31
+1986,united states,greg lemond,la vie claire,1,7,1.78,67.0,1961,25
+1987,ireland,stephen roche,carrera jeans–vagabond,1,3,1.75,74.0,1959,28
+1988,spain,pedro delgado,reynolds,1,11,1.71,64.0,1960,28
+1989,united states,greg lemond,ad renting–w-cup–bottecchia,3,8,1.78,67.0,1961,28
+1990,united states,greg lemond,z–tomasso,0,2,1.78,67.0,1961,29
+1991,spain,miguel indurain,banesto,2,10,1.86,80.0,1964,27
+1992,spain,miguel indurain,banesto,3,10,1.86,80.0,1964,28
+1993,spain,miguel indurain,banesto,2,14,1.86,80.0,1964,29
+1994,spain,miguel indurain,banesto,1,13,1.86,80.0,1964,30
+1995,spain,miguel indurain,banesto,2,13,1.86,80.0,1964,31
+1996,denmark,bjarne riis,team telekom,2,13,1.84,71.0,1964,32
+1997,germany,jan ullrich,team telekom,2,12,1.83,73.0,1973,24
+1998,italy,marco pantani,mercatone uno–bianchi,2,7,1.72,57.0,1970,28
+2006,spain,óscar pereiro,caisse d'epargne–illes balears,0,8,1.77,68.0,1977,29
+2007,spain,alberto contador,discovery channel,1,4,1.76,62.0,1982,25
+2008,spain,carlos sastre,team csc,1,5,1.73,60.0,1975,33
+2009,spain,alberto contador,astana,2,7,1.76,62.0,1982,27
+2010,luxembourg,andy schleck,team saxo bank,2,12,1.86,68.0,1985,25
+2011,australia,cadel evans,bmc racing team,1,2,1.74,64.0,1977,34
+2012,great britain,bradley wiggins,team sky,2,14,1.9,69.0,1980,32
+2013,great britain,chris froome,team sky,3,14,1.86,69.0,1985,28
+2014,italy,vincenzo nibali,astana,4,19,1.8,65.0,1984,30
+2015,great britain,chris froome,team sky,1,16,1.86,69.0,1985,30
+2016,great britain,chris froome,team sky,2,14,1.86,69.0,1985,31
+2017,great britain,chris froome,team sky,0,15,1.86,69.0,1985,32
+2018,great britain,geraint thomas,team sky,2,11,1.83,71.0,1986,32
+2019,colombia,egan bernal,team ineos,0,2,1.75,60.0,1997,22
+2020,slovenia,tadej poga?ar,uae team emirates,3,2,1.77,66.0,1998,22
+2021,slovenia,tadej poga?ar,uae team emirates,3,14,1.77,66.0,1998,23
+2022,denmark,jonas vingegaard,team jumbo–visma,2,11,1.75,60.0,1996,26
