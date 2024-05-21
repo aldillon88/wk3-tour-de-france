@@ -1,68 +1,68 @@
 year,country,rider,team,time,stages_won,stages_led,height,weight,born,age
 1903,france,maurice garin,la française,"[94, 33, 14]",3,6,1.62,60.0,1871,32
-1904,france,henri cornet,conte,"[96, 5, 55]",1,3,1.86,62.0,1884,20
-1905,france,louis trousselier,peugeot–wolber,"[0, 0, 0]",5,10,1.86,62.0,1881,24
-1906,france,rené pottier,peugeot–wolber,"[0, 0, 0]",5,12,1.86,62.0,1879,27
-1907,france,lucien petit-breton,peugeot–wolber,"[0, 0, 0]",2,5,1.86,62.0,1882,25
-1908,france,lucien petit-breton,peugeot–wolber,"[0, 0, 0]",5,13,1.86,62.0,1882,26
+1904,france,henri cornet,conte,"[96, 5, 55]",1,3,1.77,75.0,1884,20
+1905,france,louis trousselier,peugeot–wolber,"[0, 0, 0]",5,10,1.77,75.0,1881,24
+1906,france,rené pottier,peugeot–wolber,"[0, 0, 0]",5,12,1.77,75.0,1879,27
+1907,france,lucien petit-breton,peugeot–wolber,"[0, 0, 0]",2,5,1.77,75.0,1882,25
+1908,france,lucien petit-breton,peugeot–wolber,"[0, 0, 0]",5,13,1.77,75.0,1882,26
 1909,luxembourg,françois faber,alcyon–dunlop,"[0, 0, 0]",6,13,1.78,88.0,1887,22
-1910,france,octave lapize,alcyon–dunlop,"[0, 0, 0]",4,3,1.86,62.0,1887,23
-1911,france,gustave garrigou,alcyon–dunlop,"[0, 0, 0]",2,13,1.86,62.0,1884,27
-1912,belgium,odile defraye,alcyon–dunlop,"[0, 0, 0]",3,13,1.86,62.0,1888,24
-1913,belgium,philippe thys,peugeot–wolber,"[197, 54, 0]",1,8,1.86,62.0,1889,24
-1914,belgium,philippe thys,peugeot–wolber,"[200, 28, 48]",1,15,1.86,62.0,1889,25
-1919,belgium,firmin lambot,la sportive,"[231, 7, 15]",1,2,1.86,62.0,1886,33
-1920,belgium,philippe thys,la sportive,"[228, 36, 13]",4,14,1.86,62.0,1889,31
-1921,belgium,léon scieur,la sportive,"[221, 50, 26]",2,14,1.86,62.0,1888,33
-1922,belgium,firmin lambot,peugeot–wolber,"[222, 8, 6]",0,3,1.86,62.0,1886,36
-1923,france,henri pélissier,automoto–hutchinson,"[222, 15, 30]",3,6,1.86,62.0,1889,34
-1924,italy,ottavio bottecchia,automoto,"[226, 18, 21]",4,15,1.86,62.0,1894,30
-1925,italy,ottavio bottecchia,automoto–hutchinson,"[219, 10, 18]",4,13,1.86,62.0,1894,31
-1926,belgium,lucien buysse,automoto–hutchinson,"[238, 44, 25]",2,8,1.86,62.0,1892,34
-1927,luxembourg,nicolas frantz,alcyon–dunlop,"[198, 16, 42]",3,14,1.86,62.0,1899,28
-1928,luxembourg,nicolas frantz,alcyon–dunlop,"[192, 48, 58]",5,22,1.86,62.0,1899,29
-1929,belgium,maurice de waele,alcyon–dunlop,"[186, 39, 15]",1,16,1.86,62.0,1896,33
-1930,france,andré leducq,alcyon–dunlop,"[172, 12, 16]",2,13,1.86,62.0,1904,26
-1931,france,antonin magne,france,"[177, 10, 3]",1,16,1.86,62.0,1904,27
-1932,france,andré leducq,france,"[154, 11, 49]",6,19,1.86,62.0,1904,28
-1933,france,georges speicher,france,"[147, 51, 37]",3,12,1.86,62.0,1907,26
-1934,france,antonin magne,france,"[147, 13, 58]",3,22,1.86,62.0,1904,30
-1935,belgium,romain maes,belgium,"[141, 23, 0]",3,21,1.86,62.0,1912,23
-1936,belgium,sylvère maes,belgium,"[142, 47, 32]",4,14,1.86,62.0,1909,27
-1937,france,roger lapébie,france,"[138, 58, 31]",3,4,1.86,62.0,1911,26
+1910,france,octave lapize,alcyon–dunlop,"[0, 0, 0]",4,3,1.77,75.0,1887,23
+1911,france,gustave garrigou,alcyon–dunlop,"[0, 0, 0]",2,13,1.77,75.0,1884,27
+1912,belgium,odile defraye,alcyon–dunlop,"[0, 0, 0]",3,13,1.77,75.0,1888,24
+1913,belgium,philippe thys,peugeot–wolber,"[197, 54, 0]",1,8,1.77,75.0,1889,24
+1914,belgium,philippe thys,peugeot–wolber,"[200, 28, 48]",1,15,1.77,75.0,1889,25
+1919,belgium,firmin lambot,la sportive,"[231, 7, 15]",1,2,1.77,75.0,1886,33
+1920,belgium,philippe thys,la sportive,"[228, 36, 13]",4,14,1.77,75.0,1889,31
+1921,belgium,léon scieur,la sportive,"[221, 50, 26]",2,14,1.77,75.0,1888,33
+1922,belgium,firmin lambot,peugeot–wolber,"[222, 8, 6]",0,3,1.77,75.0,1886,36
+1923,france,henri pélissier,automoto–hutchinson,"[222, 15, 30]",3,6,1.77,75.0,1889,34
+1924,italy,ottavio bottecchia,automoto,"[226, 18, 21]",4,15,1.77,75.0,1894,30
+1925,italy,ottavio bottecchia,automoto–hutchinson,"[219, 10, 18]",4,13,1.77,75.0,1894,31
+1926,belgium,lucien buysse,automoto–hutchinson,"[238, 44, 25]",2,8,1.77,75.0,1892,34
+1927,luxembourg,nicolas frantz,alcyon–dunlop,"[198, 16, 42]",3,14,1.77,75.0,1899,28
+1928,luxembourg,nicolas frantz,alcyon–dunlop,"[192, 48, 58]",5,22,1.77,75.0,1899,29
+1929,belgium,maurice de waele,alcyon–dunlop,"[186, 39, 15]",1,16,1.77,75.0,1896,33
+1930,france,andré leducq,alcyon–dunlop,"[172, 12, 16]",2,13,1.77,75.0,1904,26
+1931,france,antonin magne,france,"[177, 10, 3]",1,16,1.77,75.0,1904,27
+1932,france,andré leducq,france,"[154, 11, 49]",6,19,1.77,75.0,1904,28
+1933,france,georges speicher,france,"[147, 51, 37]",3,12,1.77,75.0,1907,26
+1934,france,antonin magne,france,"[147, 13, 58]",3,22,1.77,75.0,1904,30
+1935,belgium,romain maes,belgium,"[141, 23, 0]",3,21,1.77,75.0,1912,23
+1936,belgium,sylvère maes,belgium,"[142, 47, 32]",4,14,1.77,75.0,1909,27
+1937,france,roger lapébie,france,"[138, 58, 31]",3,4,1.77,75.0,1911,26
 1938,italy,gino bartali,italy,"[148, 29, 12]",2,8,1.72,66.0,1914,24
-1939,belgium,sylvère maes,belgium,"[132, 3, 17]",2,8,1.86,62.0,1909,30
+1939,belgium,sylvère maes,belgium,"[132, 3, 17]",2,8,1.77,75.0,1909,30
 1947,france,jean robic,france,"[148, 11, 25]",3,1,1.61,60.0,1921,26
 1948,italy,gino bartali,italy,"[147, 10, 36]",7,9,1.72,66.0,1914,34
 1949,italy,fausto coppi,italy,"[149, 40, 49]",3,5,1.77,68.0,1919,30
-1950,switzerland,ferdinand kübler,switzerland,"[145, 36, 56]",3,11,1.86,62.0,1919,31
-1951,switzerland,hugo koblet,switzerland,"[142, 20, 14]",5,11,1.86,62.0,1925,26
+1950,switzerland,ferdinand kübler,switzerland,"[145, 36, 56]",3,11,1.77,75.0,1919,31
+1951,switzerland,hugo koblet,switzerland,"[142, 20, 14]",5,11,1.77,75.0,1925,26
 1952,italy,fausto coppi,italy,"[151, 57, 20]",5,14,1.77,68.0,1919,33
 1953,france,louison bobet,france,"[129, 23, 25]",2,5,1.79,75.0,1925,28
 1954,france,louison bobet,france,"[140, 6, 5]",3,14,1.79,75.0,1925,29
 1955,france,louison bobet,france,"[130, 29, 26]",2,6,1.79,75.0,1925,30
-1956,france,roger walkowiak,france,"[124, 1, 16]",0,8,1.86,62.0,1927,29
+1956,france,roger walkowiak,france,"[124, 1, 16]",0,8,1.77,75.0,1927,29
 1957,france,jacques anquetil,france,"[135, 44, 42]",4,15,1.76,70.0,1934,23
 1958,luxembourg,charly gaul,luxembourg,"[116, 59, 5]",4,2,1.73,64.0,1932,26
-1959,spain,federico bahamontes,spain,"[123, 46, 45]",1,6,1.86,62.0,1928,31
-1960,italy,gastone nencini,italy,"[112, 8, 42]",0,14,1.86,62.0,1930,30
+1959,spain,federico bahamontes,spain,"[123, 46, 45]",1,6,1.77,75.0,1928,31
+1960,italy,gastone nencini,italy,"[112, 8, 42]",0,14,1.77,75.0,1930,30
 1961,france,jacques anquetil,france,"[122, 1, 33]",2,21,1.76,70.0,1934,27
 1962,france,jacques anquetil,saint-raphaël–helyett–hutchinson,"[114, 31, 54]",2,3,1.76,70.0,1934,28
 1963,france,jacques anquetil,saint-raphaël–gitane–r. geminiani,"[113, 30, 5]",4,5,1.76,70.0,1934,29
 1964,france,jacques anquetil,saint-raphaël–gitane–dunlop,"[127, 9, 44]",4,6,1.76,70.0,1934,30
 1965,italy,felice gimondi,salvarani,"[116, 42, 6]",3,18,1.81,71.0,1942,23
-1966,france,lucien aimar,ford france–hutchinson,"[117, 34, 21]",0,6,1.86,62.0,1941,25
+1966,france,lucien aimar,ford france–hutchinson,"[117, 34, 21]",0,6,1.77,75.0,1941,25
 1967,france,roger pingeon,peugeot–bp–michelin,"[136, 53, 50]",1,17,1.82,72.0,1940,27
-1968,netherlands,jan janssen,pelforth–sauvage–lejeune,"[133, 49, 42]",2,1,1.86,62.0,1940,28
+1968,netherlands,jan janssen,pelforth–sauvage–lejeune,"[133, 49, 42]",2,1,1.77,75.0,1940,28
 1969,belgium,eddy merckx,faema,"[116, 16, 2]",6,18,1.82,74.0,1945,24
 1970,belgium,eddy merckx,faemino–faema,"[119, 31, 49]",8,20,1.82,74.0,1945,25
 1971,belgium,eddy merckx,molteni,"[96, 45, 14]",4,17,1.82,74.0,1945,26
 1972,belgium,eddy merckx,molteni,"[108, 17, 18]",6,15,1.82,74.0,1945,27
 1973,spain,luis ocaña,bic,"[122, 25, 34]",6,14,1.65,52.0,1945,28
 1974,belgium,eddy merckx,molteni,"[116, 16, 58]",8,18,1.82,74.0,1945,29
-1975,france,bernard thévenet,peugeot–bp–michelin,"[114, 35, 31]",2,8,1.86,62.0,1948,27
-1976,belgium,lucien van impe,gitane–campagnolo,"[116, 22, 23]",1,12,1.86,58.0,1946,30
-1977,france,bernard thévenet,peugeot–esso–michelin,"[115, 38, 30]",1,8,1.86,62.0,1948,29
+1975,france,bernard thévenet,peugeot–bp–michelin,"[114, 35, 31]",2,8,1.77,75.0,1948,27
+1976,belgium,lucien van impe,gitane–campagnolo,"[116, 22, 23]",1,12,1.77,58.0,1946,30
+1977,france,bernard thévenet,peugeot–esso–michelin,"[115, 38, 30]",1,8,1.77,75.0,1948,29
 1978,france,bernard hinault,renault–gitane–campagnolo,"[108, 18, 0]",3,3,1.74,62.0,1954,24
 1979,france,bernard hinault,renault–gitane,"[103, 6, 50]",7,17,1.74,62.0,1954,25
 1980,netherlands,joop zoetemelk,ti–raleigh–creda,"[109, 19, 14]",2,10,1.73,68.0,1946,34
@@ -84,6 +84,13 @@ year,country,rider,team,time,stages_won,stages_led,height,weight,born,age
 1996,denmark,bjarne riis,team telekom,"[95, 57, 16]",2,13,1.84,71.0,1964,32
 1997,germany,jan ullrich,team telekom,"[100, 30, 35]",2,12,1.83,73.0,1973,24
 1998,italy,marco pantani,mercatone uno–bianchi,"[92, 49, 46]",2,7,1.72,57.0,1970,28
+1999,united states,lance armstrong,us postal service,"[91, 32, 16]",4,11,1.77,75.0,1971,28
+2000,united states,lance armstrong,us postal service,"[92, 33, 8]",1,8,1.77,75.0,1971,29
+2001,united states,lance armstrong,us postal service,"[86, 17, 28]",4,12,1.77,75.0,1971,30
+2002,united states,lance armstrong,us postal service,"[82, 5, 12]",4,11,1.77,75.0,1971,31
+2003,united states,lance armstrong,us postal service,"[83, 41, 12]",1,9,1.77,75.0,1971,32
+2004,united states,lance armstrong,us postal service,"[83, 36, 2]",5,12,1.77,75.0,1971,33
+2005,united states,lance armstrong,discovery channel pro cycling team,"[86, 15, 2]",1,17,1.77,75.0,1971,34
 2006,spain,óscar pereiro,caisse d'epargne–illes balears,"[89, 40, 27]",0,8,1.77,68.0,1977,29
 2007,spain,alberto contador,discovery channel,"[91, 0, 26]",1,4,1.76,62.0,1982,25
 2008,spain,carlos sastre,team csc,"[87, 52, 52]",1,5,1.73,60.0,1975,33

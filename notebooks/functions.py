@@ -1,4 +1,6 @@
 import re
+import datetime as dt
+import ast
 
 
 def remove_whitespace_from_column_names(df):
@@ -66,3 +68,16 @@ def time_parts(time):
         parts = [0, 0, 0]
         #return ["none"] # FIX THIS SO IT RETURNS THE CORRECT VALUE
         return parts
+
+
+def duration_in_hours(time_list):
+  if type(time_list) == str:
+    time_list = ast.literal_eval(time_list)
+  hours = time_list[0]
+  minutes = time_list[1]
+  seconds = time_list[2]
+  total_duration = dt.timedelta(hours=hours, minutes=minutes, seconds=seconds)
+  total_hours = total_duration.total_seconds()/3600
+  return total_hours
+
+

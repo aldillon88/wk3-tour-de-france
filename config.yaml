@@ -1,0 +1,12 @@
+data:
+  raw:
+    raw_1: "../data/raw/tdf_finishers.csv"
+    raw_2: "../data/raw/tdf_stages.csv"
+    raw_3: "../data/raw/tdf_tours.csv"
+    raw_4: "../data/raw/tdf_winners.csv"
+    raw_5: "../data/raw/data_dictionary.csv"
+  clean:
+    clean_1: "../data/clean/finishers.csv"
+    clean_2: "../data/clean/stages.csv"
+    clean_3: "../data/clean/tours.csv"
+    clean_4: "../data/clean/winners.csv"
