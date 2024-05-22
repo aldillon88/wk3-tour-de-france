@@ -24,6 +24,7 @@ def trim_and_lower(df):
   df2.columns = [column.strip() for column in df2.columns]
   df2.columns = [column.strip().replace(" ", "_").lower() for column in df2.columns]
 
+  df2 = df2.map(lambda x: x.replace("\xa0", " ") if isinstance(x, str) else x)
   df2 = df2.map(lambda x: x.strip() if isinstance(x, str) else x)
   df2 = df2.map(lambda x: x.lower() if isinstance(x, str) else x)
 
@@ -53,7 +54,7 @@ def drop_non_numbers(string):
 
 def time_parts(time):
     try:
-        char_to_drop = ["h", "'", '"', "+"]
+        char_to_drop = ["h", "'", '"', "′", "″", "+"]
         for char in char_to_drop:
             time = time.replace(char, "")    
         parts = time.split()
@@ -79,5 +80,12 @@ def duration_in_hours(time_list):
   total_duration = dt.timedelta(hours=hours, minutes=minutes, seconds=seconds)
   total_hours = total_duration.total_seconds()/3600
   return total_hours
+
+
+def calculate_decade(year):
+    s = str(year)
+    decade = int(s[:3])*10
+    return decade
+
 
 
