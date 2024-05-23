@@ -87,5 +87,9 @@ def calculate_decade(year):
     decade = int(s[:3])*10
     return decade
 
+def remove_country(s):
+    pattern = r"[\[\(].*$"
+    s = re.sub(pattern, "", s).strip()
+    return s
 
 
